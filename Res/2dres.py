@@ -2,6 +2,7 @@ import numpy as np
 from matplotlib import pyplot as plt
 import time
 
+start = time.time()
 
 # Parameters (This can/will be streamlined with a GUI.. For now, copy + paste desired array into array = in array info)
 # <p>'tp_long' : twin-probe array, longitudinal traverse
